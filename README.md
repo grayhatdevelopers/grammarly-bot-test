@@ -1,18 +1,16 @@
-# grammarly-bot-test
+Hey there Grammarly-Bot just beautified your readme file ;) 
 
-this is a a a test line
-thi is a new tet
+ this is a test line
+this is a new test
 
+this is a double run test
 
-this is a duble run tets
+hello world
 
+definitely a change
 
-hlalo wordd
+hello this is a grammarly bot test
 
-ddefinitely aa change
+hello I wrote really bad docs
 
-hello htis is a grammarly bott testt
-
-hello i wrte rlly baad docs
-
-thissssss ssshsould updaate automaticalllu
+this should update automatically"
