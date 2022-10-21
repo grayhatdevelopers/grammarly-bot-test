@@ -1,14 +1,6 @@
-# grammarly-bot-test
+Hey there Grammarly-Bot just beautified your readme file ;) 
 
-this is a a a test line
-thi is a new tet
-
-
-this is a duble run tets
-
-
-hlalo wordd
-
-ddefinitely aa change
-
-hello htis is a grammarly bot test
+ this is a a a test line"
+"this is a new test"
+"this is a double run test"
+"hello this is a grammarly bot test"
