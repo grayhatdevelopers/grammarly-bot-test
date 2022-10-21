@@ -1,22 +1,18 @@
 Hey there Grammarly-Bot just beautified your readme file ;) 
 
- this is a test line
-this is a new test
+ Hey there Grammarly-Bot just beautified your readme file ;)
 
-this is a double run test
+This is a test line.
+This is a new test.
 
-hello world
+This is a double run test.
 
-definitely a change
+Hello world.
 
-hello this is a grammarly bot test
+Definitely a change.
 
-hello I wrote really bad docs
+Hello this is a grammarly bot test.
 
-this should update automatically"
+Hello I wrote really bad docs.
 
-Garmmryly bot is a github abot
-
-garrmmly is a gihutbub bot
-
-
+This should update automatically."
