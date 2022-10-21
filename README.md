@@ -14,3 +14,5 @@ hello this is a grammarly bot test
 hello I wrote really bad docs
 
 this should update automatically"
+
+Garmmryly bot is a github abot
