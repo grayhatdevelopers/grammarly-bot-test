@@ -17,3 +17,6 @@ Apparently it didn't, now trying after deleting branch
 Try this
 
 Please work
+
+
+itt should a improve the reaadiblity scores of a the text
