@@ -1,3 +1,7 @@
-This is definitely a bad grammar, becaese i do not hve a grammar checcker
+Hey there Grammarly-Bot just beautified your readme file ;) 
 
-oh my myy gramaamrly bot is doiggn a greaat job at fixning mymistakes
+ 
+
+This is definitely bad grammar, because I do not have a grammar checker.
+
+Oh my, my grammar bot is doing a great job at fixing my mistakes!
