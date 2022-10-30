@@ -1,7 +1,3 @@
-Hey there Grammarly-Bot just beautified your readme file ;) 
-
- 
-
 Hey there Grammarly-Bot just beautified your readme file ;)
 
 This is definitely bad grammar, because I do not have a grammar checker.
@@ -12,10 +8,10 @@ I am trying out a new branch
 
 Deleted grammar bot branch and retried.
 
-grmar bracch still extists. do this work?
+Grammar branch still exists. Does this work?
 
-apprrently id didnt, now tryinng afterr deelting brnch
+Apparently it didn't, now trying after deleting branch
 
-try thiiisiis
+Try this
 
-pls wokr
+Please work
