@@ -1,3 +1,5 @@
+
+
 Hey there Grammarly-Bot just beautified your readme file ;)
 
 This is definitely bad grammar, because I do not have a grammar checker.
@@ -15,5 +17,3 @@ Apparently it didn't, now trying after deleting branch
 Try this
 
 Please work
-
-Lett us a see if a the readability score impporves
