@@ -1,5 +1,3 @@
-
-
 Hey there Grammarly-Bot just beautified your readme file ;)
 
 This is definitely bad grammar, because I do not have a grammar checker.
@@ -19,6 +17,6 @@ Try this
 Please work
 
 
-itt should a improve the reaadiblity scores of a the text
+It should improve the readability scores of the text
 
-pleasese imporove a the readabiliyty of text
+Please improve the readability of the text.
