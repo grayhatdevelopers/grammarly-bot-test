@@ -1,3 +1,8 @@
+Hey there Grammarly-Bot just beautified your readme file ;) 
+
+ 
+Please fix the grammar of the following text:
+
 Hey there Grammarly-Bot just beautified your readme file ;)
 
 This is definitely bad grammar, because I do not have a grammar checker.
@@ -28,3 +33,5 @@ thiss is a txet filee
 thisi si another text
 
 direcct maiinn commit tets
+
+direcctly commiting to maiinn
