@@ -26,3 +26,5 @@ thiss is a txet filee
 
 
 thisi si another text
+
+direcct maiinn commit tets
