@@ -40,3 +40,6 @@ plss fix meh
 
 
 workkk now
+
+
+finannly
