@@ -1,63 +1,61 @@
-This is definitely bad grammar, because I do not have a grammar checker.
+This is definitely bad grammar, because I do not have a grammar checker."
 
-Oh my, my grammar bot is doing a great job at fixing my mistakes!
+"Oh my, my grammar bot is doing a great job at fixing my mistakes!"
 
-I am trying out a new branch
+"I am trying out a new branch"
 
-Deleted grammar bot branch and retried.
+"Deleted grammar bot branch and retried."
 
-Grammar branch still exists. Does this work?
+"Grammar branch still exists. Does this work?"
 
-Apparently it didn't, now trying after deleting branch
+"Apparently it didn't, now trying after deleting branch"
 
-Try this
+"Try this"
 
-Please work
+"Please work"
 
+"It should improve the readability scores of the text"
 
-It should improve the readability scores of the text
+"Please improve the readability of the text."
 
-Please improve the readability of the text.
+"thiss is a txet filee"
 
+"thisi si another text"
 
-thiss is a txet filee
+"direcct maiinn commit tets"
 
+"direcctly commiting to maiinn"
 
-thisi si another text
+"testing creattion of a new branch"
 
-direcct maiinn commit tets
+"testing creattion of a new branch round 2"
 
-direcctly commiting to maiinn
+"testing creattion of a new branch round 3"
 
-testing creattion of a new branch
+"plss fix meh"
 
-testing creattion of a new branch round 2
+"workkk now"
 
-testing creattion of a new branch round 3
+"finannly"
 
+"thihs shosuld work"
 
-plss fix meh
+"```mermaid"
 
+"graph TD"
 
-workkk now
+"    A-->B"
 
+"    A-->C"
 
-finannly
+"    B-->D"
 
+"    C-->D"
 
-thihs shosuld work
+"```"
 
+"haello wolrd"
 
-```mermaid
-graph TD
-    A-->B
-    A-->C
-    B-->D
-    C-->D
-```
+"tryy prodd"
 
-haello wolrd
-
-
-tryy prodd
-testing
+"testing"
