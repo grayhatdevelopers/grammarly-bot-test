@@ -20,66 +20,66 @@ It should improve the readability scores of the text
 Please improve the readability of the text.
 
 
-thiss is a txet filee
+Thiss is a text file
 
 
-thisi si another text
+this is another text
 
-direcct maiinn commit tets
+direct main commit gets
 
-direcctly commiting to maiinn
+directly committing to main
 
-testing creattion of a new branch
+testing creation of a new branch
 
-testing creattion of a new branch round 2
+testing creation of a new branch round 2
 
-testing creattion of a new branch round 3
-
-
-plss fix meh
+testing creation of a new branch round 3
 
 
-workkk now
+pass fix meh
 
 
-finannly
+work now
 
 
-thihs shosuld work
+finally
+
+
+this should work
 
 
 ```mermaid
 graph TD
-    A-->B
-    A-->C
-    B-->D
-    C-->D
+    A→B
+    A→C
+    B→D
+    C→D
 ```
 
-haello wolrd
+hello word
 
 
-dtryy prodd
+dry proud
 testing
 
 testing
 
-testting agaain
+testing again
 
 
 
-plasease work now fam
-teststintg the aprod
+please work now fam
+testing the apron
 chad added proxy
 
-addedade propxy server
+added proxy server
 
 
-adde build arguemtns
+added build arguments
 
 hallo
 
-wrld
+world
 
 chuclky cheese
 
